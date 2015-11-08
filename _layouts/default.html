@@ -17,11 +17,11 @@
 <body>
   {{content}}
 
-  {% include footers/legal.html %}
+  {% include legal/footers/legal.html %}
 
   {% case site.analytics.provider %}
     {% when "google" %}
-      {% include analytics/google.html %}
+      {% include legal/analytics/google.html %}
   {% endcase %}
 </body>
 </html>
