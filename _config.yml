@@ -12,15 +12,15 @@ exclude:
 - "CNAME"
 
 owner:
-  name: Cofounders Pte Ltd
-  contact: mailto:hello@cofounders.sg
-  website: http://www.cofounders.sg
-  github: https://github.com/cofounders
-  facebook: https://www.facebook.com/cofounders.sg
+  name: Code for Croatia
+  contact: mailto:hi@codeforcroatia.org
+  website: http://codeforcroatia.org
+  github: https://github.com/codeforcroatia
+  facebook: https://www.facebook.com/kodirajzahrvatsku
 
 license:
-  name: CC-BY-SA
-  url: http://creativecommons.org/licenses/by-sa/3.0/
+  name: CC0
+  url: https://creativecommons.org/publicdomain/zero/1.0/deed.hr
 
 analytics:
   provider: google
