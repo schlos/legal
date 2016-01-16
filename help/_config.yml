@@ -3,8 +3,8 @@ lsi: false
 pygments: true
 source: .
 permalink: /:title/
-baseurl: "/help/"
-url: http://schlos.github.io/legal
+baseurl: "/"
+url: http://schlos.github.io/legal/help
 exclude:
 - ".*"
 - "*.md"
