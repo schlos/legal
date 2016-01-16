@@ -3,7 +3,7 @@
 {
   "created_time": "{{ site.time | date_to_xmlschema }}",
   "templates": [
-    {% for post in site.steps %}
+    {% for post in site.posts %}
     {
       "date": "{{ post.date | date_to_xmlschema }}",
       "title": {{ post.title | jsonify }},
