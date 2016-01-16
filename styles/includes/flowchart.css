@@ -1,8 +1,3 @@
-/*! custom css */
-
-.text-wrap {
-  white-space: normal;
-}
 
 /*!
  * Bootstrap v3.2.0 (http://getbootstrap.com)
@@ -1864,4 +1859,10 @@ input[type="button"].btn-block {
 .btn-xs .badge {
   top: 0;
   padding: 1px 5px;
+}
+
+/*! custom css */
+
+.text-wrap {
+  white-space: normal;
 }
