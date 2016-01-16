@@ -1189,3 +1189,11 @@ input[type="button"].btn-block {
   filter: alpha(opacity=0);
   opacity: 0;
 }
+.btn .badge {
+  position: relative;
+  top: -1px;
+}
+.btn-xs .badge {
+  top: 0;
+  padding: 1px 5px;
+}
