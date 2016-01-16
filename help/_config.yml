@@ -10,6 +10,7 @@ exclude:
 - "*.md"
 - "Gemfile*"
 - "CNAME"
+- "../_posts/*"
 
 owner:
   name: Code for Croatia
