@@ -12,10 +12,16 @@
 
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 
- .btn > .caret,
+.btn > .caret,
   .dropup > .btn > .caret {
     border-top-color: #000 !important;
   }
+  
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
 
 .row {
   margin-right: -15px;
