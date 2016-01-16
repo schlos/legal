@@ -29,18 +29,6 @@ a.text-info:hover {
   color: #245269;
 }
 
-.lead {
-  margin-bottom: 20px;
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 1.4;
-}
-@media (min-width: 768px) {
-  .lead {
-    font-size: 21px;
-  }
-}
-
 .bg-primary {
   color: #fff;
   background-color: #428bca;
@@ -1871,6 +1859,18 @@ input[type="button"].btn-block {
 .btn-xs .badge {
   top: 0;
   padding: 1px 5px;
+}
+
+.lead {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.4;
+}
+@media (min-width: 768px) {
+  .lead {
+    font-size: 21px;
+  }
 }
 
 /*! custom css */
