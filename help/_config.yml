@@ -1,0 +1,28 @@
+safe: true
+lsi: false
+pygments: true
+source: .
+permalink: /:title/
+baseurl: "/help/"
+url: http://schlos.github.io/legal
+exclude:
+- ".*"
+- "*.md"
+- "Gemfile*"
+- "CNAME"
+
+owner:
+  name: Code for Croatia
+  contact: mailto:hi@codeforcroatia.org
+  website: http://codeforcroatia.org
+  github: https://github.com/codeforcroatia
+  facebook: https://www.facebook.com/kodirajzahrvatsku
+
+license:
+  name: CC0
+  url: https://creativecommons.org/publicdomain/zero/1.0/deed.hr
+
+analytics:
+  provider: google
+  google:
+    id: UA-32876029-x
