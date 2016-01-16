@@ -23,6 +23,17 @@
   margin-left: auto;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.text-info {
+  color: #31708f;
+}
+a.text-info:hover {
+  color: #245269;
+}
+
 .row {
   margin-right: -15px;
   margin-left: -15px;
