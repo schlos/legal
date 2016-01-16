@@ -11,16 +11,6 @@
   .dropup > .btn > .caret {
     border-top-color: #000 !important;
   }
-  
-.center-block {
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-.text-center {
-  text-align: center;
-}
 
 .text-info {
   color: #31708f;
@@ -1871,6 +1861,16 @@ input[type="button"].btn-block {
 .btn-xs .badge {
   top: 0;
   padding: 1px 5px;
+}
+
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-center {
+  text-align: center;
 }
 
 
