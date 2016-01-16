@@ -3,14 +3,14 @@ lsi: false
 pygments: true
 source: .
 permalink: /:title/
-baseurl: "/"
+baseurl: "/help/"
 url: http://schlos.github.io/legal/help
 exclude:
 - ".*"
 - "*.md"
 - "Gemfile*"
 - "CNAME"
-- "../_posts/*"
+- "../_*"
 
 owner:
   name: Code for Croatia
